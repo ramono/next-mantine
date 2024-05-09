@@ -1,0 +1,8 @@
+.statsWrapper {
+    padding: calc(var(--mantine-spacing-xl) * 2) 0;
+    background-color: var(--mantine-primary-color-filled);
+}
+
+.newsWrapper {
+    padding: calc(var(--mantine-spacing-xl) * 2) 0;
+}
